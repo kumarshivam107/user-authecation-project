@@ -1,0 +1,45 @@
+.main-section {
+    width: 100%;
+    height: 100vh;
+    background-image: url("images/bg-01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.innerSection {
+    height: auto;
+    background-color: white;
+    position: relative;
+    top: 100px;
+    border-radius: 20px;
+    padding:10px;
+}
+.ii {
+    border: 2px solid grey;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+}
+
+.main-sectionone{
+    width:100%;
+    background-image: url("images/bg-01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 25px;
+}
+.loginBtn{
+    background-color: rgb(235, 37, 192)!important;
+    border:none!important;
+}
+.main-sectiontwo{
+    width:100%;
+    background-image: url("images/bg-01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
